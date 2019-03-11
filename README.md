@@ -66,6 +66,10 @@ To run the mock database
 
 ```
 
+lesson = https://www.vuemastery.com/courses/next-level-vue/reusable-form-components-baseinput
+reference = https://www.vuemastery.com/courses/real-world-vue-js/global-components/
+
+
 json-server --watch db.json
 #above = no delay
 json-server -d 1500 --watch db.json
